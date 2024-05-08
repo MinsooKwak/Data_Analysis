@@ -1,1 +1,1 @@
-
+- NVIDIA 주식 트래킹 대시보드 🔗[LINK](https://public.tableau.com/views/_17151822473050/sheet2?:language=ko-KR&:sid=&:display_count=n&:origin=viz_share_link)
